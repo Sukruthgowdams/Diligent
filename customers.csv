@@ -1,0 +1,21 @@
+customer_id,name,email,join_date,city
+1001,Ava Brooks,ava.brooks@example.com,2023-01-10,Seattle
+1002,Ethan Myers,ethan.myers@example.com,2023-01-15,Portland
+1003,Liam Chen,liam.chen@example.com,2023-01-20,San Francisco
+1004,Olivia Patel,olivia.patel@example.com,2023-02-02,San Jose
+1005,Noah Kim,noah.kim@example.com,2023-02-18,Los Angeles
+1006,Emma Rivera,emma.rivera@example.com,2023-03-05,Sacramento
+1007,Mason Clark,mason.clark@example.com,2023-03-12,San Diego
+1008,Sophia Lopez,sophia.lopez@example.com,2023-03-25,Phoenix
+1009,James Turner,james.turner@example.com,2023-04-03,Denver
+1010,Isabella Scott,isabella.scott@example.com,2023-04-15,Chicago
+1011,Benjamin Reed,benjamin.reed@example.com,2023-05-01,Austin
+1012,Mia Sullivan,mia.sullivan@example.com,2023-05-18,Dallas
+1013,Elijah Ward,elijah.ward@example.com,2023-06-02,Houston
+1014,Charlotte Hayes,charlotte.hayes@example.com,2023-06-12,Atlanta
+1015,Logan Price,logan.price@example.com,2023-06-25,Miami
+1016,Harper Brooks,harper.brooks@example.com,2023-07-04,Orlando
+1017,Daniel Foster,daniel.foster@example.com,2023-07-16,Boston
+1018,Amelia Grant,amelia.grant@example.com,2023-07-28,New York
+1019,Jacob Ortiz,jacob.ortiz@example.com,2023-08-05,Philadelphia
+1020,Evelyn Hughes,evelyn.hughes@example.com,2023-08-18,Minneapolis

@@ -1,0 +1,1 @@
+This repository provides synthetic e-commerce CSV datasets, a SQLite schema, an ingestion script, and sample SQL queries so you can quickly stand up a demo database and explore shopper, product, order, and review analytics end-to-end.

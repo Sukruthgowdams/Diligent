@@ -1,0 +1,21 @@
+review_id,product_id,customer_id,rating,comment
+5001,2001,1001,5,Excellent mouse
+5002,2004,1002,4,Sharp display
+5003,2006,1003,5,Sound is superb
+5004,2008,1004,4,Fast transfers
+5005,2002,1005,5,Keys feel great
+5006,2010,1006,4,Tracks fitness well
+5007,2015,1007,5,Drone is fun
+5008,2005,1008,4,Sturdy stand
+5009,2003,1009,4,Handy ports
+5010,2007,1010,4,Crisp video
+5011,2018,1011,5,Immersive gaming
+5012,2012,1012,4,Responsive pen
+5013,2017,1013,4,Bright lights
+5014,2019,1014,3,Charges fine
+5015,2014,1015,5,Action shots great
+5016,2020,1016,4,Smooth climate control
+5017,2013,1017,4,Rich sound
+5018,2011,1018,5,Very comfortable
+5019,2016,1019,4,Stabilizes video
+5020,2009,1020,5,Assistant useful
